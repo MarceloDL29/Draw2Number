@@ -1,4 +1,4 @@
-# NUMBERS
+# Draw2Number
 ### Introduction:
 This program is an interactive tool that uses Machine Learning to recognize handwritten digits.
 
