@@ -1,4 +1,4 @@
-# NUMBERS
+# Draw2Number
 ### Introducción:
 Este programa es una herramienta interactiva que utiliza Machine Learning para reconocer dígitos escritos a mano.
 
