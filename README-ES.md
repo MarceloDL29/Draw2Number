@@ -40,5 +40,22 @@ Presiona <code>C</code> para predecir.
 
 Presiona <code>Q</code> para salir.
 
-<img src ="../img/s">
+# Capturas
+
+### Sin Dibujo
+<img src ="/img/sin dibujo.png">
+
+### Dibujo
+<img src ="/img/dibujo.png">
+
+### Resultado
+<img src ="/img/s o n.png">
+
+### Positivo
+<img src ="/img/s.png">
+
+### Negativo
+<img src ="/img/n.png">
+
+
 
